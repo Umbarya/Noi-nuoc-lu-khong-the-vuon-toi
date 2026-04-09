@@ -467,11 +467,11 @@ This species presumably spends the majority of its time within SCP-6634-1, only 
 
 "teaLilyWaterBottleCombine":[
 {"name":"null","text":"Đã kết hợp [color=#4f80a0]Cốc Hoa Huệ[/color] với [color=#4f80a0]Chai Nước[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Ts. Sanghera","text":"Chà vấn đề được giải quyết. Không cần phải lo về nguồn nước nữa rồi","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Chà vấn đề được giải quyết. Không cần phải lo về nguồn nước nữa rồi","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Có chuyện gì vậy?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Ts. Sanghera","text":"Tôi dùng một trong số [color=#4f80a0]Cốc Hoa Huệ[/color] như một cái bộ lọc ấy mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi dùng một trong số [color=#4f80a0]Cốc Hoa Huệ[/color] như một cái bộ lọc ấy mà.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Có chắc là nó an toàn chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Ts. Sanghera","text":"Chẳng phải mấy người bảo với tôi không cần làm quá vấn đề an toàn lên à","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Chẳng phải mấy người bảo với tôi không cần làm quá vấn đề an toàn lên à","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Okay, okay...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -1343,3 +1343,5 @@ For Guaire :)
 [/center]
 "
 }
+
+
