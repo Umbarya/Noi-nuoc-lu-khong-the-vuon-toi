@@ -1,106 +1,65 @@
-{
-"TUTORIAL FOR TRANSLATORS": "First up, try and use some kind of code editor that supports .json files. I use Notepad++. You won't have to, but it will be a LOT easier on you. Ignore the red fake errors in the text if you use Notepad++, they're just being dramatic.", 
-
-"Do not change ANY of the text in square brackets": "Don't touch anything in text that looks like this: [i][/i],[color=#xxxxxx][/color], etc. These add text effects.",
-"Do not change ANY variables in curly brackets":"Don't touch anything in text that looks like this: {example}, these are searched and replaced in the code",
-"Do not change any dictionary keys":[
-{"doNotChangeThis":"change THIS"}
-],
-"Do not change anything besides text in the Dialogue Dictionaries.":[
-{"name":"DO NOT CHANGE","text":"CHANGE","tickSpeed":"DO NOT CHANGE","type":"DO NOT CHANGE"},
-],
-
-"Names for name boxes are changed all at once right here below instead" : "The name in dialogue dictionaries also controls the voices characters have so it's important they are not changed.",
-
-"Dr. Sanghera": "Dr. Sanghera",
-"Commander O'Cuill": "Commander O'Cuill",
-"Agent Guerrero": "Agent Guerrero",
-"Agent Hale": "Agent Hale",
-
-"Don't have to change these ones below, though" :"these ones don't even show up in the game.",
-
-"null": "null",
-"nullCommander": "nullCommander",
-
-"EXPORTING OPTION 1":"Download Godot and open the project file, place your edited .json file in res://Components, test it with the play button on the top right to make sure it runs correctly.",
-"If some letters aren't showing up, you may need to find new fonts and edit them." : "Font can be changed in the DialogueTheme.tres, Tablet.tres, and Room Buttons.tres. You'll probably need 2-3 fonts. I used 3, but you can get away with a Standard font and a Strikethrough font. If you can't find a strikthrough font and you don't want to make one, just reword anything with [i][/i] borders to make sense without a strikethrough and remove the [i][/i].",
-"Click project>export>add...>HTML5>Resources": "add *.json to Filters to export into a new folder", 
-"Export the project, and finally," : "edit the .html file's name to index.html and upload to a site of your choosing like Itch.io or github pages. You may need to zip the folder depending on where you upload it.",
-
-"EXPORTING ALTERNATIVE" : "If you're uncomfortable with code or Godot, you COULD skip all that and just send the translated file to me. I would be happy to add the language support natively to the main game file with a selection screen at the start",
-"It'd be much easier on you, but it wouldn't be its own file." : "You can still upload your own scp-wiki translation page and you'd be credited in the main game as a translator and on the page as a co-author, but you couldn't make your own itch.io page for the translation if you were planning on that.",
-
-"With all of that mentioned, the rest of this file is all the text in the entire game.": "Good luck! If you need additional assistance, DM me on wikidot(IronShears, slower) or Discord(ironshears, faster)",
+"dialogueError":{"name":"null","text":"THIẾU DỮ LIỆU ĐỐI THOẠI","tickSpeed":0.04,"type":"Dialogue"},
 
 
+"scpTitle":"Mã Vật thể: SCP-6634",
+"scpText":"[color=#4f80a0]Phân loại Tạm thời:[/color] Euclid
 
+[color=#4f80a0]Quy trình Tiền Quản thúc:[/color] Một lối vào tạm thời được khoan gần đỉnh hang Miánhua sẽ được sử dụng để ra vào trong suốt quá trình nghiên cứu. Tất cả các cá nhân khi rời khỏi hang đều bắt buộc phải khử trùng đầy đủ nhằm ngăn ngừa nguy cơ SCP-6634 lây lan ra khỏi phạm vi khu vực hang Miánhua.
 
+Hiện tại, các đặc tính dị thường tiềm tàng của hang Miánhua, SCP-6634 và hệ sinh thái bên trong đang được nghiên cứu. Những cá nhân khỏe mạnh không cần trang bị thiết bị hỗ trợ sự sống khi ở trong hang. No life support equipment is required within the cavern for healthy individuals. [i]Do_rủi_ro_ở_mức_tối_thiểu_và_không_khí_có_thể hít_thở_được, các_đội_thám_hiểm_chỉ_cần số_lượng_ít_với_trang_thiết_bị_tinh_gọn_là_đủ.[/i] [color=#4f80a0]Nói thì dễ đấy.[/color]
 
-
-
-
-"dialogueError":{"name":"null","text":"DIALOGUE MISSING","tickSpeed":0.04,"type":"Dialogue"},
-
-
-"scpTitle":"Item #: SCP-6634",
-"scpText":"[color=#4f80a0]Provisional Object Class:[/color] Euclid
-
-[color=#4f80a0]Pre-containment Procedures:[/color] A temporary drilled entry point near the top of Miánhua cave will be used for entry while research takes place. Full decontamination of all individuals upon exiting the cavern to prevent the potential spread of SCP-6634 outside of Miánhua cave is required.
-
-Potential anomalous properties of Miánhua cave SCP-6634 the ecosystem within it are currently being researched. No life support equipment is required within the cavern for healthy individuals. [i]Due_to_minimal_risk_and_the_breathability of_the_atmosphere, only_small_teams_with minimal_equipment_are_necessary.[/i] [color=#4f80a0]So much for that.[/color]
-
-[color=#4f80a0]Description:[/color] SCP-6634 is a prolific black wool-like alga that grows at the bottom of the saltwater pools in Miánhua cave, a sealed cavern intercepted at approximately 29 meters beneath the surface in the Yunnan province, China.
+[color=#4f80a0]Mô tả:[/color] SCP-6634 là một loại tảo đen dạng sợi phát triển mạnh mẽ dưới đáy các hồ nước mặn trong hang Miánhua-một hang động kín được phát hiện ở độ sâu xấp xỉ khoảng 29 m dưới bề mặt tỉnh Vân Nam, Trung Quốc.
 
 {energySource}
 
-SCP-6634 has adapted to rely on several ketones for respiration and does not require glucose. Its cells resemble algae in the Oedogonium genus but do not contain chloroplasts.  SCP-6634’s cells contain an autapomorphic organelle closely resembling ctenophore cells. This form of autotrophy has created an ecosystem made up entirely of carnivores.
+SCP-6634 đã thích nghi để hô hấp dựa vào một số loại ketone mà không cần đến glucose. Các tế bào của nó mang hình dạng tương tự như loài tảo thuộc chi Oedogonium nhưng lại không có lục lạp. Tế bào của SCP-6634 sở hữu một bào quan biến dị đặc hữu có cấu tạo tế bào rất giống loài sứa lược. Hình thức tự dưỡng này đã tạo ra một hệ sinh thái được cấu thành hoàn toàn nhờ các loài ăn thịt.
 
-SCP-6634, and all life in the ecosystem it supports, are endemic to the cavern. Currently, [color=#4f80a0]{species} species[/color](including SCP-6634) have been described within the ecosystem and none besides SCP-6634 have been observed to be anomalous. All described species rely exclusively on dietary ketones but produce glucose for respiration through gluconeogenesis as is typical of carnivores.
+SCP-6634, cùng tất cả các sinh vật sống trong hệ sinh thái mà nó nuôi dưỡng đều là loài đặc hữu của hang động này. Hiện tại, [color=#4f80a0]{species} nhiều loài[/color](bao gồm SCP-6634) đã được mô tả bên trong hệ sinh thái và ngoài SCP-6634 ra, chưa có loài nào khác được quan sát thấy có đặc tính dị thường. Tất cả các loài đã được mô tả đều phụ thuộc hoàn toàn vào nguồn ketone từ chế độ ăn, nhưng chúng lại sản sinh glucose để hô hấp thông qua quá trình tân tạo đường, một đặc điểm điển hình của các loài ăn thịt."
 
-All are descended from marine species that have split somewhere from 485-462 mya. It is currently estimated the cave was sealed off sometime between the early to mid-Ordovician period.{cavesDiscovered}
+Tất cả đều có nguồn gốc từ các loài sinh vật biển đã bị phân tách nhánh tiến hóa vào khoảng 485 đến 462 triệu năm trước. Hiện tại, ước tính rằng hang động này đã bị niêm phong vào khoảng giữa kỷ Ordovician.{cavesDiscovered}
 ",
 
-"scpTextEnding":"[color=#4f80a0]Object Class:[/color] Euclid
+"scpTextEnding":"[color=#4f80a0]Phân loại:[/color] Euclid
 
-[color=#4f80a0]Special Containment Procedures:[/color] A reinforced steel tube for structural support and ladder is to be maintained as an entrance into Miánhua cave and is to remain sealed at all times apart from ongoing in-person research or maintenance. If entrance into Miánhua cave is essential,  expeditions require approval from two Level 4 personnel, a team of at least 5 individuals, and enough food and water for 2 weeks.  Full decontamination of all individuals upon exiting the cavern to prevent the potential spread of SCP-6634 outside of Miánhua cave is required.
+[color=#4f80a0]Quy trình Quản thúc Đặc biệt:[/color] Một ống thép gia cường đóng vai trò hỗ trợ cấu trúc và làm thang leo duy nhất được duy trì cho lối vào hang Miánhua. Lối vào này cần được niêm phong mọi lúc, trừ khi đang hoạt động nghiên cứu hoặc bảo trì ở bên trong. Nếu cần thiết phải tiến vào hang, các chuyến thám hiểm yêu cầu phải có sự đồng thuận của 2 nhân sự Cấp 4 trở lên, một đội ít nhất 5 người và đủ thức ăn, nước uống trong 2 tuần. Ngoài ra, bắt buộc phải khử trùng toàn bộ các cá nhân khi rời khỏi hang để ngăn ngừa nguy cơ lây lan SCP-6634 ra bên ngoài hang Miánhua.
 
-[color=#4f80a0]Description:[/color] SCP-6634 is a prolific black wool-like alga that grows at the bottom of the saltwater pools in Miánhua cave, a sealed cavern intercepted at approximately 29 meters beneath the surface in the Yunnan province, China.
+[color=#4f80a0]Mô tả:[/color] SCP-6634 là một loại tảo đen dạng sợi phát triển mạnh mẽ dưới đáy các hồ nước mặn trong hang Miánhua-một hang động kín được phát hiện ở độ sâu xấp xỉ khoảng 29 m dưới bề mặt tỉnh Vân Nam, Trung Quốc.
 
-SCP-6634’s primary source of energy is hypothesized to be a form of [color=#4f80a0]anomalotrophy[/color] that produces ketones, methane, and oxygen. The oxygen and methane content of the cave is elevated compared to the broader atmosphere of Earth but remains safely breathable. 
+Giả thuyết cho rằng, nguồn cung chính của SCP-6634 là một dạng [color=#4f80a0]dị sinh dưỡng[/color] sản sinh ra các ketone, khí metan và oxy. Hàm lượng oxy và metan trong hang cao hơn so với khí quyển chung của Trái đất nhưng vẫn đủ duy trì ở mức hít thở an toàn.
 
-SCP-6634 has adapted to rely on several ketones for respiration and does not require glucose. Its cells resemble algae in the Oedogonium genus but do not contain chloroplasts.  SCP-6634’s cells contain an autapomorphic organelle closely resembling ctenophore cells. This form of autotrophy has created an ecosystem made up entirely of carnivores.
+SCP-6634 đã thích nghi để hô hấp dựa vào một số loại ketone mà không cần đến glucose. Các tế bào của nó mang hình dạng tương tự như loài tảo thuộc chi Oedogonium nhưng lại không có lục lạp. Tế bào của SCP-6634 sở hữu một bào quan biến dị đặc hữu có cấu tạo tế bào rất giống loài sứa lược. Hình thức tự dưỡng này đã tạo ra một hệ sinh thái được cấu thành hoàn toàn nhờ các loài ăn thịt.
 
-SCP-6634, and all life in the ecosystem it supports, are endemic to the cavern. Currently, [color=#4f80a0]{species} species[/color](including SCP-6634) have been described within the ecosystem and none besides SCP-6634 have been observed to be anomalous. All described species rely exclusively on dietary ketones but produce glucose for respiration through gluconeogenesis as is typical of carnivores.
+SCP-6634, cùng tất cả các sinh vật sống trong hệ sinh thái mà nó nuôi dưỡng đều là loài đặc hữu của hang động này. Hiện tại, [color=#4f80a0]{species} nhiều loài[/color](bao gồm SCP-6634) đã được mô tả bên trong hệ sinh thái và ngoài SCP-6634 ra, chưa có loài nào khác được quan sát thấy có đặc tính dị thường. Tất cả các loài đã được mô tả đều phụ thuộc hoàn toàn vào nguồn ketone từ chế độ ăn, nhưng chúng lại sản sinh glucose để hô hấp thông qua quá trình tân tạo đường, một đặc điểm điển hình của các loài ăn thịt."
 
-All are descended from marine species that have split somewhere from 485-462 mya. It is currently estimated the cave was sealed off sometime between the early to mid-Ordovician period.{cavesDiscovered}
+Tất cả đều có nguồn gốc từ các loài sinh vật biển đã bị phân tách nhánh tiến hóa vào khoảng 485 đến 462 triệu năm trước. Hiện tại, ước tính rằng hang động này đã bị niêm phong vào khoảng giữa kỷ Ordovician.{cavesDiscovered}
 
-[color=#4f80a0]Addendum:[/color] Two expeditions into Miánhua cave have taken place. The first expedition was completed without complication by a team of 5, Dr. Sanghera and four MTF operatives stationed in the Yunnan province on December 20th, 2023. 7/{species} of the known species, including SCP-6634, were described during this expedition. Due to the success of the first expedition and the low perceived risk, a second expedition with a two-person team, Dr. Sanghera and Agent Chen, was approved and carried out on December 23rd 2023. On entry into the cavern, a cave-in occurred. Agent Chen was killed immediately{ending}
+[color=#4f80a0]Phụ lục:[/color] Đã có hai chuyến thám hiểm vào hang được thực hiện. Chuyến đầu tiên gồm 5 người mà không gặp biến cố nào, bao gồm Ts. Sanghera và 4 đặc vụ ĐNCĐ đang đồn trú tại tỉnh Vân Nam vào ngày 20 tháng 10 năm 2023. Trong chuyến đi này 7/{species} trong số các sinh vật đã biết, bao gồm SCP-6634, đã được mô tả trong chuyến thám hiểm này. Do sự thành công của chuyến thám hiểm đầu tiên và được nhận định là rủi ro thấp, nên chuyến thứ hai chỉ bao gồm hai người tham gia, Ts.Sanghera và Đặc vụ Chen-đã được phê duyệt vào ngày 23 tháng 10 năm 2023. Ngay khi vừa tiến vào hang, Đặc vụ Chen đã chết ngay lập tức vì xảy ra sập hầm{ending}
 ",
 
 "cavesDiscovered":"
 
-[color=#4f80a0]SCP-6634-1 was not initially noted during the first expedition. This space ie extensive and has obscured the diversity and scale of the ecosystem. The entire system has yet to be mapped.[/color]
+[color=#4f80a0]SCP-6634-1 ban đầu không được ghi nhận trong chuyến thám hiểm đầu tiên. Không gian này rất rộng lớn và đã che khuất đi sự đa dạng cũng như quy mô của hệ sinh thái. Toàn bộ hệ thống này hiện vẫn chưa được lập bản đồ đầy đủ.[/color]
 ",
-"caveEndTrue":"and [color=#4f80a0]SCP-6634-1[/color]",
+"caveEndTrue":"và [color=#4f80a0]SCP-6634-1[/color]",
 "caveEndFalse":"",
 
-"energySource0":"SCP-6634’s primary source of energy is currently unknown but results in the production of ketones, methane, and oxygen. The oxygen and methane content of the cave is elevated compared to the broader atmosphere of Earth but remains safely breathable. ",
-"energySource1":"SCP-6634’s primary source of energy is a form of [color=#4f80a0]anomalotrophy[/color] that produces ketones, methane, and oxygen. [color=#4f80a0]This form of autotrophy is powered by fauna moving between Miánhua cave and the extra-dimensional space, SCP-6634-1, located within SCP-6634.[/color] The oxygen and methane content of the cave is elevated compared to the broader atmosphere of Earth but remains safely breathable. ",
+"energySource0":"Nguồn cung chính của SCP-6634 hiện vẫn chưa được xác định, nhưng quá trình này sản sinh ra các ketone, khí metan và oxy. Hàm lượng oxy và metan trong hang cao hơn so với khí quyển chung của Trái đất nhưng vẫn đủ duy trì ở mức hít thở an toàn. ",
+"energySource1":"Nguồn cung của SCP-6634 là một dạng [color=#4f80a0]dị sinh dưỡng[/color] sản sinh ra các ketone, khí metan và oxy. [color=#4f80a0]Hình thức tự dưỡng này được duy trì nhờ động vật di chuyển giữa hang Miánhua và không gian ngoại chiều là SCP-6634-1 vốn nằm ngay bên trong bản thể SCP-6634.[/color] Hàm lượng oxy và metan trong hang cao hơn so với khí quyển chung của Trái đất nhưng vẫn đủ duy trì ở mức hít thở an toàn. ",
 
 
-"endingText1":" and Dr. Sanghera was trapped in the cave for 71 hours without water. Following recovery Dr. Sanghera was discovered unresponsive in a small branch of the cavern and admitted to the medical ward to receive intravenous fluids. She is expected to make a full recovery.",
-"endingText2":" and Dr. Sanghera was trapped in the cave for 71 hours. She was able to find water and survive within Miánhua cave until found. Upon the recovery team's entry to the cave, Dr. Chen's body was discovered to be missing. His whereabouts are currently unknown.",
-"endingText3":" and Dr. Sanghera was trapped in the cave for 71 hours. During this time, Dr. Sanghera was able to document [color=#4f80a0]{number}[/color] new species {cave} as she awaited rescue.",
-"endingText4":". Dr. Sanghera survived the initial cave in, but became lost in SCP-6634-1 after disregarding instruction to not advance into the anomaly alone.",
-"endingCave":"and describe SCP-6634-1",
+"endingText1":" và Ts. Sanghera đã bị kẹt 71 giờ trong hang mà không có nước uống. Sau nỗ lực giải cứu, Ts. Sanghera được tìm thấy trong trạng thái không còn phản ứng tại một nhánh nhỏ của hang động và được đưa ngay vào khu y tế để thực hiện truyền dịch tĩnh mạch. Theo dự kiến, bà sẽ hồi phục hoàn toàn.",
+"endingText2":" và Ts. Sanghera đã bị kẹt 71 giờ trong hang. Cô đã có thể tìm thấy nguồn nước và sống sót bên trong hang Miánhua cho đến khi được giải cứu. Tuy nhiên, khi đội cứu hộ tiến vào hang, thi thể của Ts. Chen được phát hiện là đã mất tích. Hiện vẫn chưa rõ tung tích của ông.",
+"endingText3":" và Ts. Sanghera đã bị kẹt 71 giờ trong hang. Trong thời gian chờ được giải cứu, Ts. Sanghera đã kịp thời ghi chép tài liệu về [color=#4f80a0]{number}[/color] nhiều loài mới {cave}.",
+"endingText4":". Ts. Sanghera đã sống sót sau vụ sập hang ban đầu, nhưng rồi bị lạc vào sâu bên trong SCP-6634-1 do phớt lờ chỉ dẫn không được tiến vào khu vực dị thường một mình.",
+"endingCave":"và mô tả SCP-6634-1",
 
-"endingName1":"Speedrun Killer",
-"endingName2":"I Survived 71 Hours Trapped In A Cave And All I Got Was This Stupid T-Shirt",
-"endingName3":"Making the best of it",
-"endingName4":"Rookie Mistake",
+"endingName1":"Khắc Tinh Speedrun",
+"endingName2":"Tôi Đã Sống Sót Sau 71 Giờ Kẹt Trong Hang Và Tất Cả Những Gì Tôi Nhận Được Là Cái Áo Phông Ngớ Ngẩn Này",
+"endingName3":"Trong cái khó ló cái khôn",
+"endingName4":"Lỗi sơ đẳng",
 
 
-"describedSpecies":"[color=#4f80a0]Described Species:[/color]",
+"describedSpecies":"[color=#4f80a0]Các Loài Được Mô tả:[/color]",
 "crinoids":"	Crinoidea:",
 "hemichordates":"	Hemichordata:",
 "chordates":"	Chordata:",
@@ -109,55 +68,55 @@ All are descended from marine species that have split somewhere from 485-462 mya
 
 
 
-"teaLilyName":"\"Tea Lily\"",
-"teaLilyNameLong":"\"Tea Lily\"
+"teaLilyName":"\"Hoa Huệ Trà\"",
+"teaLilyNameLong":"\"Hoa Huệ Trà\"
 [color=grey](Canistrumcorona caverna)[/color]",
-"teaLilyText0":"A species of
-land-adapted crinoid.
-The bracia of its crown
-has fused to a tightly
-knit cup adapted to
-collect water that
-drips off stalactites above and consumes the waste from the symbiotic pikaiid that live in their cups.
+"teaLilyText0":"Một loài
+thích nghi trên cạn.
+Các nhánh đan chặt trên phần vương miện của nó
+hợp thành một cái cốc,
+thích nghi với việc
+thu thập nước
+nhỏ giọt từ các nhũ đá phía trên và tiêu thụ chất thải từ loài pikaiid cộng sinh sống trong cốc.
 
-They reproduce asexually through spores that grow into larvae and collect in humidity in the air. Once the water collects as dew on the surface, the larvae drip down and fix themselves on the floor to grow.
+Chúng sinh sản vô tính thông qua các bào tử, sau đó phát triển thành ấu trùng và tích tụ trong độ ẩm của không khí. Một khi hơi nước ngưng tụ thành sương trên các bề mặt, những ấu trùng này sẽ nhỏ giọt xuống và bám chặt vào nền hang để bắt đầu quá trình trưởng thành.
 ",
-"teaLilyText1":"A species of
-land-adapted crinoid.
-The bracia of its crown
-has fused to a tightly
-knit [color=#4f80a0]basket-like[/color] cup
-adapted to collect
-water that drips off stalactites above and consumes [color=#4f80a0] both the microbes living in the water and[/color] the waste from the symbiotic pikaiids that live in their cups.
+"teaLilyText1":"Một loài
+thích nghi trên cạn.
+Các nhánh đan chặt trên phần vương miện của nó
+hợp thành
+một cái cốc [color=#4f80a0]hình giỏ đan[/color]
+thích nghi với việc thu thập
+nguồn nước nhỏ giọt từ các nhũ đá phía trên và tiêu thụ [color=#4f80a0] cả các vi sinh vật sống trong nước lẫn và[/color] tiêu thụ chất thải từ loài pikaiid cộng sinh sống trong cốc.
 
 
-They reproduce asexually through spores that grow into larvae and collect in humidity in the air. Once the water collects as dew on the surface, the larvae drip down and fix themselves on the floor to grow.
+Chúng sinh sản vô tính thông qua các bào tử, sau đó phát triển thành ấu trùng và tích tụ trong độ ẩm của không khí. Một khi hơi nước ngưng tụ thành sương trên các bề mặt, những ấu trùng này sẽ nhỏ giọt xuống và bám chặt vào nền hang để bắt đầu quá trình trưởng thành.
 ",
 
-"crabTrapCrinoidName":"\"Crab Pot Crinoid\"",
-"crabTrapCrinoidNameLong":"\"Crab Pot Crinoid\"
+"crabTrapCrinoidName":"\"Hoa Huệ Bẫy Cua\"",
+"crabTrapCrinoidNameLong":"\"Hoa Huệ Bẫy Cua\"
 [color=grey](Nepenthecancerae captionem)[/color]",
-"crabTrapCrinoidText0":"A species of crinoid 
-that has evolved a 
-basket shape with an 
-opening resembling a 
-crab pot or fish trap. 
-The majority of its 
-nutrients come from filter feeding. Infrequently a [color=#4f80a0]Drift Worm[/color] will float into the opening and become trapped.
+"crabTrapCrinoidText0":"Một loại huệ biển 
+đã tiến hóa thành 
+một hình dạng giống chiếc giỏ
+với miệng mở tương tự như
+bẫy cua hay bẫy cá. 
+Phần lớn, 
+chất dinh dưỡng của nó đến từ việc lọc thức ăn. Đôi khi, một con [color=#4f80a0]Sâu Trôi[/color] sẽ trôi dạt vào miệng bẫy và bị kẹt lại bên trong.
 
-It is hypothesized that as the carcasses break down they provide additional nutrients to the crinoid. No additional species large enough to become trapped has been observed within the ecosystem.",
-"crabTrapCrinoidText1":"A species of crinoid 
-that has evolved a 
-basket shape with an 
-opening resembling a 
-crab pot or fish trap. 
-The majority of its 
-nutrients come from filter feeding. Infrequently a [color=#4f80a0]Drift Worm[/color] will float into the opening and become trapped.
+Giả thuyết cho rằng khi xác của con sâu phân hủy, chúng sẽ cung cấp thêm các chất dinh dưỡng bổ sung cho loài huệ biển này. Hiện tại, chưa quan sát thấy được loài nào khác đủ lớn để bị mắc bẫy trong hệ sinh thái này.",
+"crabTrapCrinoidText1":"Một loại huệ biển 
+đã tiến hóa thành 
+một hình dạng giống chiếc giỏ 
+với miệng mở tương tự như 
+bẫy cua hay bẫy cá. 
+Phần lớn, 
+chất dinh dưỡng của nó đến từ việc lọc thức ăn. Đôi khi, một con [color=#4f80a0]Sâu Trôi[/color] sẽ trôi dạt vào miệng bẫy và bị kẹt lại bên trong.
 
-[color=#4f80a0]These carcasses attract larger prey immune to the [color=#4f80a0]Drift Worm[/color]’s sting such as [color=#4f80a0]Lacemouthes[/color].[/color] As the carcasses break down and are torn apart by the [color=#4f80a0]Letter Bone Lancelets[/color] they provide additional nutrients to the crinoid.",
+[color=#4f80a0]Những cái xác này thu hút các loài săn mồi lớn hơn vốn có khả năng miễn nhiễm với ngòi chích của [color=#4f80a0]Sâu Trôi[/color], chẳng hạn như loài [color=#4f80a0]Miệng Ren[/color].[/color] Khi các cái xác phân hủy và bị xâu xé bởi loài [color=#4f80a0]Lưỡng Tiêm Xương Chữ[/color], chúng sẽ cung cấp thêm các dưỡng chất bổ sung cho loài huệ biển này.",
 
-"teaCupPikaiidName":"\"Tea Cup Pikaiid\"",
-"teaCupPikaiidNameLong":"\"Tea Cup Pikaiid\"
+"teaCupPikaiidName":"\"Pikaiid dạng Tách Trà\"",
+"teaCupPikaiidNameLong":"\"Pikaiid dạng tách trà\"
 [color=grey](LilliumDomus stagnans)[/color]",
 "teaCupPikaiidText0":"A small stem-chordate
 that lives
@@ -463,338 +422,338 @@ ecological niche as a large herbivore. It only feeds on slow moving prey, dead p
 This species presumably spends the majority of its time within SCP-6634-1, only entering Miánhua cave to scavenge for food.",
 
 
-"tablet":"A tablet used to record prelimary data on the anomaly and ecosystem.",
-"tabletNo":"Tablet cannot be combined with any other objects.",
-"tabletNo":"Tablet cannot be combined with any other objects.",
+"tablet":"Một chiếc máy tính bảng được sử dụng để ghi lại các dữ liệu sơ bộ về dị thể và hệ sinh thái.",
+"tabletNo":"Máy tính bảng không thể kết hợp với bất kỳ vật phẩm nào khác.",
+"tabletNo":"Máy tính bảng không thể kết hợp với bất kỳ vật phẩm nào khác.",
 
 
-"baitName":"Bait",
-"baitInvDesc":"A pack of neatly packed and sterilized fish heads for use as bait.",
-"baitBoxName":"Bait Box",
-"baitBoxInvDesc":"A Box full of neatly packed and sterilized fish heads for use as bait.",
+"baitName":"Mồi",
+"baitInvDesc":"Một gói đầu cá được đóng gói gọn gàng và tiệt trùng để sử dụng làm mồi.",
+"baitBoxName":"Hộp Mồi",
+"baitBoxInvDesc":"Một hộp chứa đầy các đầu cá được đóng gói gọn gàng và tiệt trùng để sử dụng làm mồi.",
 
-"waterBottleFullName":"Water Bottle",
-"waterBottleFullInvDesc":"A full water bottle. No greater evil than single use plastic.",
-"waterBottleHalfName":"Water Bottle",
-"waterBottleHalfInvDesc":"A half full water bottle. No greater evil than single use plastic.",
-"waterBottleEmptyName":"Water Bottle",
-"waterBottleEmptyInvDesc":"An empty water bottle. No greater evil than single use plastic.",
-"teaLilyWaterBottleName":"Filtered Water Bottle",
-"teaLilyWaterBottleInvDesc":"A water bottle with a [color=#4f80a0]Tea Lily Cup[/color] as a filter.",
+"waterBottleFullName":"Chai nước",
+"waterBottleFullInvDesc":"Một chai đầy nước. Không có con quỷ nào lớn hơn loại nhựa dùng một lần.",
+"waterBottleHalfName":"Chai nước",
+"waterBottleHalfInvDesc":"Một chai nước còn một nửa. Không có con quỷ nào lớn hơn loại nhựa dùng một lần.",
+"waterBottleEmptyName":"Chai nước",
+"waterBottleEmptyInvDesc":"Một chai nước rỗng. Không có con quỷ nào lớn hơn loại nhựa dùng một lần.",
+"teaLilyWaterBottleName":"Chai Lọc Nước",
+"teaLilyWaterBottleInvDesc":"Một chai nước sử dụng [color=#4f80a0]Cốc Hoa Huệ[/color] như một bộ lọc.",
 
-"teaLilyCupName":"Tea Lily Cup",
-"teaLilyCupInvDesc":"A crown from a [color=#4f80a0]Tea Lily[/color].",
+"teaLilyCupName":"Cốc Hoa Huệ",
+"teaLilyCupInvDesc":"Phần vương miện của [color=#4f80a0]Hoa Huệ Trà[/color].",
 
-"isopodRadiodontBaitName":"Pillbug Radiodont",
-"isopodRadiodontBaitInvDesc":"A curled up [color=#4f80a0]Pillbug Radiodont[/color]. Would make good bait.",
-"driftWormBaitName":"Drift Worm",
-"driftWormBaitInvDesc":"A deflated [color=#4f80a0]Drift Worm[/color]. Looks... gross. Would make good bait.",
-"lacemouthBaitName":"Lacemouth Filet",
-"lacemouthBaitInvDesc":"A [color=#4f80a0]Lacemouth[/color] split in half down the middle. Would make good bait.",
-"bigBoyPikaiidBaitName":"Greater Slug Pikaiid",
-"bigBoyPikaiidBaitInvDesc":"A Greater Slug Pikaiid. Its trying to eat its way out of the bag. Might work as bait.",
+"isopodRadiodontBaitName":"Rận Gỗ Radiodont",
+"isopodRadiodontBaitInvDesc":"Một con [color=#4f80a0]Rận Gỗ Radiodont[/color] đang cuộn tròn lại. Sẽ làm mồi tốt đây.",
+"driftWormBaitName":"Sâu Trôi",
+"driftWormBaitInvDesc":"Một con [color=#4f80a0]Sâu Trôi[/color] bị xì hơi. Nhìn... gớm thật. Sẽ làm mồi tốt đây.",
+"lacemouthBaitName":"Miệng ren phi lê",
+"lacemouthBaitInvDesc":"Một con [color=#4f80a0]Miệng ren[/color] bị xẻ đôi dọc theo thân. Sẽ làm mồi tốt đây.",
+"bigBoyPikaiidBaitName":"Sên Pikaiid Đại Bản",
+"bigBoyPikaiidBaitInvDesc":"Một con Sên Pikaiid Đại Bản. Nó đang cố ăn xuyên cái túi để thoát ra ngoài. Có vẻ dùng làm mồi được.",
 
-"lampName":"Lamp",
-"lampInvDesc":"A floor lamp. Could be used to set up camp.",
+"lampName":"Đèn",
+"lampInvDesc":"Một chiếc đèn bàn. Có thể sử dụng cho cắm trại.",
 
-"ropeName":"Rope",
-"ropeInvDesc":"The rope that snapped on the way down. It has an oily substance on the end.",
+"ropeName":"Dây Thừng",
+"ropeInvDesc":"Dây đã bị đứt trên đường đi xuống. Ở đầu dây có bám một chất dầu.",
 
-"combineItem":"[center]Combine [color=#4f80a0]{item}[/color]?",
-"combineTwoItems":"[center]Combine [color=#4f80a0]{item1}[/color] and[color=#4f80a0] {item2}[/color]?",
-"combineBagPrompt":"[center]Click on the tablet to view the file open or any two items to combine.",
-"useBagPrompt":"[center]Place an item as bait?",
+"combineItem":"[center]Kết hợp [color=#4f80a0]{item}[/color]?",
+"combineTwoItems":"[center]Kết hợp [color=#4f80a0]{item1}[/color] và[color=#4f80a0] {item2}[/color]?",
+"combineBagPrompt":"[center]Nhấp vào máy tính bảng để xem tệp đang mở hoặc nhấp vào hai vật phẩm bất kỳ để kết hợp.",
+"useBagPrompt":"[center]Đặt vật phẩm làm mồi?",
 
 "teaLilyWaterBottleCombine":[
-{"name":"null","text":"Combined [color=#4f80a0]Tea Lily Cup[/color] and [color=#4f80a0]Water Bottle[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Well that solves that problem. No more worrying about water","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"What's happening?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I'm using one of the [color=#4f80a0]Tea Lily Cups[/color] as a filter.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Sure that's safe?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Didn't you tell me to stop being dramatic about safety?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Okay, okay...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"Đã kết hợp [color=#4f80a0]Cốc Hoa Huệ[/color] với [color=#4f80a0]Chai Nước[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Chà vấn đề được giải quyết. Không cần phải lo về nguồn nước nữa rồi","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Chỉ huy O'Cuill","text":"Có chuyện gì vậy?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi dùng một trong số [color=#4f80a0]Cốc Hoa Huệ[/color] như một cái bộ lọc ấy mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Chỉ huy O'Cuill","text":"Có chắc là nó an toàn chứ?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Chẳng phải mấy người bảo với tôi không cần làm quá vấn đề an toàn lên à","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Chỉ huy O'Cuill","text":"Okay, okay...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "cannotCombine":[
-{"name":"null","text":"Nothing to do with these two items.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"hai vật phẩm này không liên quan đến nhau.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
-"rest" : "Rest",
-"exit" : "Exit",
-"yes" : "Yes",
-"no" : "No",
-"wakeUp" : "Wake Up",
-"keepOn" : "CRT Filter On",
-"turnOff" : "CRT Filter Off",
-"filterToggleTrue" : "Filter Toggle: ON",
-"filterToggleFalse" : "Filter Toggle: OFF",
-"viewTablet" : "View Previous File",
-"newGame" : "New Game",
+"rest" : "Nghỉ Ngơi",
+"exit" : "Ra Ngoài",
+"yes" : "Có",
+"no" : "Không",
+"wakeUp" : "Tỉnh Dậy",
+"keepOn" : "Bộ Lọc CRT Bật",
+"turnOff" : "Bộ Lọc CRT Tắt",
+"filterToggleTrue" : "Chuyển Bộ Lọc: BẬT",
+"filterToggleFalse" : "Chuyển Bộ Lọc: TẮT",
+"viewTablet" : "Xem Tệp Trước Đó",
+"newGame" : "Game Mới",
 "gameTitle" : "[center]SCP-6634:
-where the flood couldn't reach.[/center]",
+Nơi nước lũ không thể vươn tới.[/center]",
 
 "intro":[
-{"name":"nullCommander","text":"Hello hello, do you copy?","tickSpeed":0.02,"type":"Dialogue"},
-{"name":"nullCommander","text":"Agent Chen, Dr. Sanghera respond!","tickSpeed":0.02,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"What... Ughh... My head...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"nullCommander","text":"Are either of you able to access your radios?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"Dr. Sanghera fumbles for her radio and bag.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"nullCommander","text":"Alo Aloo, nghe rõ trả lời?","tickSpeed":0.02,"type":"Dialogue"},
+{"name":"nullCommander","text":"Đặc vụ Chen, Ts. Sanghera respond!","tickSpeed":0.02,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Hả... Ư... Đầu tôi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"nullCommander","text":"Có ai trong hai người còn sử dụng được bộ đàm không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"Ts. Sanghera loay hoay tìm bộ đàm và balo của mình.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro2":[
-{"name":"Dr. Sanghera","text":"I... I'm here...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Are you trapped? Can you get up?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"No... no... I'm... I'm fine... What... What happened... ","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"There was a collapse on your way into the cave.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"We're not sure what happened but we're working on it.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Fuck... Chen are you...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi... Tôi đây...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô có bị kẹt không? Còn đứng dậy được không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Không... không... Tôi... Tôi ổn... Hả... Chuyện gì đã xảy ra vậy... ","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Đã có một vụ sập hang trong khi hai người đang tiến vào.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chúng tôi chưa rõ nguyên nhân là gì nhưng đang tìm cách xử lý.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đệt... Chen à...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"...Chen?","tickSpeed":0.04,"closeSpeed":0.01,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh god...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Is Chen trapped?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"He's... he's dead...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"I need you to check his pulse. If you can revive him we'll be able to get you both out in the hour.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...His... His head is...","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Crushed...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"ÔI trời ơi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chen bị kẹt sao?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Anh... anh ấy chết rồi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Tôi cần cô kiểm tra mạch của cậu ấy. Nếu có thể hồi sức, chúng tôi sẽ đưa cả hai ra ngoài trong vòng một tiếng nữa.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"...Dầu... Đầu của anh ta...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"...Bị đè nát rồi...","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"...","tickSpeed":0.2,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Fuck.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Okay.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Địt cụ.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Được rồi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Commander O'Cuill sighs.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Indira, I need you to move Chen away from the cave entrance.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Do NOT stand underneath it. The team is arriving soon to excavate.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"We do not want the rubble falling on you.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Okay... okay.","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Indira, tôi cần cô đưa Chen rời khỏi lối vào hang ngay.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"ĐỪNG có đứng bên dưới đó. Đội cứu hộ sắp đến để đào bới rồi","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chúng tôi không muốn đất đá rơi xuống người cô đâu.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"...Được... được thôi.","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "intro3":[
-{"name":"Dr. Sanghera","text":"He's heavier than I was expecting.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I told you we shouldn't have gotten comfortable yet.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"It's only the second expedition.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"The ground must be more unstable than expected.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Is that all you have to say?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Now is not the time to assign blame.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Right.","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"We need to start excavating.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"What about Chen?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Leave the body where its at. We'll retrieve it when we get down there.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Find some place to camp out and try and keep yourself occupied.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Great.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"We should get you out within the hour.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Anh ta nặng hơn tôi .","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi đã bảo anh rồi, chúng ta chưa nên chủ quan sớm như vậy mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đây mới chỉ là chuyến thám hiểm thứ hai.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Địa hình chắc hẳn đã kém ổn định hơn chúng ta dự đoán.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đó là những gì anh có thể nói à?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Giờ không phải là lúc để đổ lỗi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"...Rồi.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chúng tôi cần bắt đầu đào bới ngay.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Còn Chen thì sao?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cứ để thi thể ở đó. Chúng ta sẽ thu hồi khi xuống được đến dưới đó.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Hãy tìm chỗ nào đó để dựng trại và cố gắng giữ cho bản thân bận rộn đi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tuyệt.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chúng tôi sẽ đưa cô ra ngoài trong vòng 1 giờ nữa.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro4":[
-{"name":"Dr. Sanghera","text":"Dry. Relatively secluded. Flat.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"This looks like a good enough place.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I'll set up camp here.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Khô ráo. Khá biệt lập. Bằng phẳng.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Trông có vẻ như là một nơi lý tưởng đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Mình sẽ dựng trại ở đây.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro5":[
-{"name":"Dr. Sanghera","text":"Any word on how long this is going to take?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Find some place to rest?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Yes.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"You're gonna be down there a bit longer than expected.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"The excavation team wants to make sure the whole cave doesn't collapse on you.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Okay. How long?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Do you still have the bait?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I wish you'd just answer my questions. Yes.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Keep it away from the wildlife.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"It won't taste good but it's edible.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"What do I do for water?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Isn't there a lake down there?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"It's SALT water.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Did you read nothing I'd written before lessening safety measures on this expedition?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Don't be dramatic. You have a water bottle.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"It won't be more than a few days.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Fuck.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"I'll be on the other end of the radio the whole time.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"The battery should last a week.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"You should rest for a little while.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"It'll help the time pass.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Có tin gì chưa? Còn bao lâu nữa thế?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô tìm được chỗ nghỉ ngơi chưa?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô sẽ phải ở dưới đấy lâu hơn dự kiến đấy","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Đội đào bới muốn chắc chắn rằng cả cái hang không sập xuống đầu cô.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Rồi vậy thì còn bao lâu nữa?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô còn giữ đống mồi chứ?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi ước gì anh cứ trả lời thẳng câu hỏi của tôi đi. Có, tôi còn giữ.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Để nó tránh xa khỏi đám sinh vật hoang dã đi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Vị nó không ngon đâu nhưng ăn được đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi phải làm gì để có nước uống đây?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chẳng phải có cái hồ dưới đấy sao?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Nó là nước MẶN đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Anh có đọc bất cứ thứ gì tôi viết trước khi nới lỏng các biện pháp an toàn cho chuyến thám hiểm này không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Đừng có làm quá lên. Cô có một chai nước mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Sẽ không quá vài ngày đâu.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đệt.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Tôi sẽ luôn túc trực ở đầu bên này bộ đàm.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Pin chắc sẽ trụ được một tuần.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô nên nghỉ ngơi một lát đi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Nó sẽ giúp thời gian trôi nhanh hơn đấy.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "pondIntro":[
-{"name":"Dr. Sanghera","text":"Not a good place to lay down...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"không phải là một nơi lý tưởng để đặt lưng xuống...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro0":[
-{"name":"Dr. Sanghera","text":"I guess I can just rest my eyes for a little bit...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Mình nghĩ là mình có thể chợp mắt nghỉ ngơi một chút…","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
-"restTitle1":"Day 1, 14:00",
+"restTitle1":"Ngày 1, 14:00",
 
 "restIntro1":[
-{"name":"Dr. Sanghera","text":"Riain, any progress?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Still surveying. We're bringing out the ground penetrating radar.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ugh... Okay.","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"null","text":"Water bottle half empty.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Riain, có tiến triển gì không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Vẫn đang khảo sát. Chúng tôi đang đưa radar xuyên đất ra.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ừm... Okay.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"null","text":"Chai nước của tôi còn một nửa thôi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro1":[
-{"name":"Dr. Sanghera","text":"I'm going to bed. Doubt I'll get much sleep.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Alright. Get some rest. We'll have more news in the morning.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Tôi đi ngủ đây. Cơ mà chắc chẳng chợp mắt được bao lâu đâu.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Được rồi. Nghỉ ngơi đi. Sáng mai chúng tôi sẽ có thêm tin tức.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
-"restTitle2":"Day 2, 07:00",
+"restTitle2":"Ngày 2, 07:00",
 
 "restIntro2":[
-{"name":"Commander O'Cuill","text":"Indira, you awake?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ugh... Yes. Fuck. My neck...","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"We can say confidently we'll get you out on the 24th.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Indira, cô dậy chưa?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ờm... Rồi. Đệt. Cổ của tôi...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chúng tôi có thể khẳng định chắc chắn rằng ta sẽ đưa cô ra ngoài vào ngày 24.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Two more days?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"You're gonna have to hold out.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Hơn hai này nữa à?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô phải ráng trụ lại thôi.","tickSpeed":0.04,"type":"Dialogue"},
 ],
 
 "thirsty2" : [
-{"name":"null","text":"Water bottle empty.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"Chai hết nước rồi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro2":[
-{"name":"Dr. Sanghera","text":"I'm... just going to keep resting...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Tôi... sẽ tiếp tục nghỉ ngơi đây...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro2BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"I'm getting nervous walking around. Whatever took Chen is in here somewhere.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Not much left to do. I'm going to hold out in here and keep an eye on the door.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"It's an animal. It's probably more scared of you than you are of it.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh shut the fuck up, O'Cuill.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi cảm thấy bất an khi đi quanh đây. Bất cứ thứ gì đưa Chen đi có thể còn ở đâu đó quanh đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Not much left to do. Không còn gì nhiều để làm nữa. Tôi sẽ cố thủ ở đây và canh chừng lối vào.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chỉ là một loài động vật thôi. Có lẽ nó còn sợ cô hơn là cô sợ nó đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ôi câm dùm , O'Cuill.","tickSpeed":0.04,"type":"Dialogue"},
 ],
 
-"restTitle3":"Day 2, 14:00",
+"restTitle3":"Ngày 2, 14:00",
 
 "restIntro3":[
-{"name":"Dr. Sanghera","text":"Ughh... I feel like shit","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"You've been sitting there for a whole day looking at your tablet.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Nothing else to do.","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Ư... Tôi thấy tệ vãi lồng luôn.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cô đã ngồi đó cả ngày trời chỉ để dán mắt vào cái máy tính bảng rồi đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Chả có gì để làm cả.","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "restIntro3BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Starting to get too bored of sitting here. I might risk it.","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Well, try and keep yourself safe.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Bắt đầu chán ngấy việc chỉ ngồi im một chỗ rồi đó, có lẽ tôi sẽ liều một phen.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Chà, vậy thì cố mà giữ an toàn cho bản thân đấy.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "thirsty3" : [
-{"name":"Dr. Sanghera","text":"Still no water either. Starting to feel ... really shitty.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"If nothing else the water from the bait should keep you alive.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I worry they're too salty to do that...","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Vẫn chưa có nước. Tôi bắt đầu cảm thấy ... thực sự rất kinh khủng rồi đó.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Nếu không còn cách nào khác, lượng nước trong đống mồi sẽ giúp cô sống sót.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi e là nó quá mặt để là được việc đó...","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "restOutro3":[
-{"name":"Dr. Sanghera","text":"Guess I'll sleep for the night.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Alright...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Chắc là tôi sẽ ngủ qua đêm nay vậy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Được thôi...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro3BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Taking another little break. I'm losing track of time.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"It's about 23:00.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Shit... I guess I'm gonna try and sleep.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Put something against the door.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"No loose rocks.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Nghỉ thêm một lát nữa vậy. Tôi bắt đầu mất khả năng xác định được thời gian rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Giờ là khoảng 23:00 rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đụ má... chắc là tôi cố chợp mắt đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Hãy lấy gì đó để chặn lối ra vào đi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Chẳng có hòn đá nào cả.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
-"restTitle4":"Day 3, 9:00",
+"restTitle4":"Ngày 3, 9:00",
 
 "restIntro4":[
-{"name":"Commander O'Cuill","text":"Indira? You alright?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Oh good, you just slept in. Try not to ruin your sleep schedule.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"That's not something I'm worried about right now.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Ồ tốt rồi, cô vừa ngủ quên đấy. Cố đừng để rối loạn giờ giấc nhé.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Đó không phải là thứ tôi đang bận tâm vào lúc này.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restIntro4BodyDiscovered":[
-{"name":"Commander O'Cuill","text":"Indira? You alright?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Oh good, you just slept in. Try not to ruin your sleep schedule too bad.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I'm more worried about whatever ate Chen.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Ồ tốt rồi, cô vừa ngủ quên đấy. Cố đừng để rối loạn giờ giấc nhé.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi đang lo về thứ đã ăn Chen hơn.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "restOutro4":[
-{"name":"Dr. Sanghera","text":"How much longer is this going to take?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Just hold on.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Sẽ còn mất bao lâu nữa đây?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Cố chịu thêm chút nữa đi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro4BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"I just need to sit down for a while.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Alright","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Tôi chỉ cần ngồi xuống nghỉ một lát thôi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Được thôi","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
-"restTitle5":"Day 3, 16:00",
+"restTitle5":"Ngày 3, 16:00",
 
 "restIntro5":[
-{"name":"Commander O'Cuill","text":"Good news. We're getting you out first thing tommorow morning.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Finally... It feels like I've been in here a month.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Tin tốt này. Chúng tôi sẽ đưa cô ra ngoài vào sáng sớm ngày mai.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Cuối cùng thì... tôi cứ ngỡ mình đã ở đây cả tháng trời rồi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restIntro5BodyDiscovered":[
-{"name":"Commander O'Cuill","text":"Good news. We're getting you out first thing tommorow morning.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Finally... I really don't want to get eaten by that thing.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Tin tốt này. Chúng tôi sẽ đưa cô ra ngoài vào sáng sớm ngày mai.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Cuối cùng thì... Tôi thực sự không muốn bị cái thứ đó ăn thịt đâu.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "restOutro5":[
-{"name":"Dr. Sanghera","text":"I'm going to try and sleep before you come here.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"See you tommorow morning.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Tôi sẽ cố chợp mắt một lát trước khi các anh đến.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Hẹn gặp cô vào sáng mai.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro5BodyDiscovered":[
-{"name":"Commander O'Cuill","text":"See you tommorow morning.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Please hurry. I'm worried.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Hẹn gặp cô vào sáng mai.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Làm ơn hãy nhanh lên. Tôi lo quá.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 
 "thirstEnding":[
-{"name":"Commander O'Cuill","text":"Indira? You alright?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I've got... pretty bad vertigo... Still no water...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I'm just going to... keep... laying down a little while longer...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Just hang in there.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi bị... chóng mặt kinh khủng... Vẫn chưa có nước...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi sẽ vẫn... tiếp tục... nằm nghỉ thêm một lúc nữa...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"Gắng thêm chút nữa thôi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "Ending0":[
-{"name":"Commander O'Cuill","text":"Indira. Indira wake up.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Mmm... what... what do you want?","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Indira. Indira dậy đi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ưm... cái gì... anh muốn gì?","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "mediocreEnding":[
-{"name":"Commander O'Cuill","text":"It's time.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Dr. Sanghera?! Dr. Sanghera are you in here?!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh thank god. I'm in here!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Glad to see you're okay","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Anyone find the body yet?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Hale","text":"Negative. Nothing out here.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"What do you mean nothing out there...?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I left it right by the","tickSpeed":0.08,"closeSpeed":0.08,"type":"DialogueAuto"}
+{"name":"Commander O'Cuill","text":"Đến lúc rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Ts. Sanghera?! Ts. Sanghera có ở trong đó không?!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ôi lạy trời. Tôi đây!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Thật mừng khi thấy cô vẫn ổn","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Đã có ai tìm thấy được thi thể chưa?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Hale","text":"Không thấy gì cả. Ngoài này chẳng có gì.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ý anh là sao, không có gì ngoài đó à...?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi đã để xác cậu ấy ngay cạnh cái","tickSpeed":0.08,"closeSpeed":0.08,"type":"DialogueAuto"}
 ],
 
 "goodEnding0":[
-{"name":"Commander O'Cuill","text":"It's time.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Dr. Sanghera?! Dr, Sanghera are you in here?!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh thank god. I'm in here! Coming out now.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Đến lúc rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Ts. Sanghera?! Ts. Sanghera có ở trong đó không?!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ôi lạy trời. Tôi đây! Ra ngay đây.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "goodEndingAdd":[
-{"name":"Dr. Sanghera","text":"Oh, it's still here. Watch out for the [color=#4f80a0]Arthrocaris[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Whoa.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Just leave it alone. It won't come at you but don't push it.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Hale","text":"Hah, wow.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Ồ, nó vẫn còn ở đây. Cẩn thận con [color=#4f80a0]Arthrocaris[/color] đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Woa.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Cứ kệ nó đi. Nó sẽ không tấn công các anh đâu nhưng đừng có khiêu khích nó.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Hale","text":"Ái chà chà.","tickSpeed":0.04,"type":"Dialogue"},
 ],
 
 
 "goodEnding1":[
-{"name":"Agent Hale","text":"You look like shit.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I just need a shower, something to drink, and a plate of real food.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Agent Guerrero","text":"Glad to see you're alright.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Agent Hale","text":"Trông cô tệ thật đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Tôi chỉ cần được đi tắm, uống cái gì đó, và một đĩa thức ăn tử tế thôi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Agent Guerrero","text":"Thật mừng khi thấy cô vẫn ổn.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 
 "newData":[
-{"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"Dữ liệu mới đã được thêm vào tệp.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "takeCancel":[
-{"name":"null","text":"Nevermind.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"Đừng bận tâm.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "body":[
@@ -802,8 +761,8 @@ where the flood couldn't reach.[/center]",
 ],
 
 "bodyMissing":[
-{"name":"Dr. Sanghera","text":"What the fuck.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill the body's gone. I don't... I don't know where it went.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Cái đéo gì vậy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"O'Cuill, thi thể anh ta biến mất rồi. I don't... I don't know where it went.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"What? Was Chen not dead?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I don't know! It's just gone.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I think... I think something got to it.","tickSpeed":0.04,"type":"Dialogue"}
@@ -1383,3 +1342,4 @@ For Guaire :)
 [/center]
 "
 }
+
