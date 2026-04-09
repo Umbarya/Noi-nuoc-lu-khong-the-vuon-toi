@@ -1,45 +1,4 @@
 {
-"TUTORIAL FOR TRANSLATORS": "First up, try and use some kind of code editor that supports .json files. I use Notepad++. You won't have to, but it will be a LOT easier on you. Ignore the red fake errors in the text if you use Notepad++, they're just being dramatic.", 
-
-"Do not change ANY of the text in square brackets": "Don't touch anything in text that looks like this: [i][/i],[color=#xxxxxx][/color], etc. These add text effects.",
-"Do not change ANY variables in curly brackets":"Don't touch anything in text that looks like this: {example}, these are searched and replaced in the code",
-"Do not change any dictionary keys":[
-{"doNotChangeThis":"change THIS"}
-],
-"Do not change anything besides text in the Dialogue Dictionaries.":[
-{"name":"DO NOT CHANGE","text":"CHANGE","tickSpeed":"DO NOT CHANGE","type":"DO NOT CHANGE"},
-],
-
-"Names for name boxes are changed all at once right here below instead" : "The name in dialogue dictionaries also controls the voices characters have so it's important they are not changed.",
-
-"Dr. Sanghera": "Dr. Sanghera",
-"Commander O'Cuill": "Commander O'Cuill",
-"Agent Guerrero": "Agent Guerrero",
-"Agent Hale": "Agent Hale",
-
-"Don't have to change these ones below, though" :"these ones don't even show up in the game.",
-
-"null": "null",
-"nullCommander": "nullCommander",
-
-"EXPORTING OPTION 1":"Download Godot and open the project file, place your edited .json file in res://Components, test it with the play button on the top right to make sure it runs correctly.",
-"If some letters aren't showing up, you may need to find new fonts and edit them." : "Font can be changed in the DialogueTheme.tres, Tablet.tres, and Room Buttons.tres. You'll probably need 2-3 fonts. I used 3, but you can get away with a Standard font and a Strikethrough font. If you can't find a strikthrough font and you don't want to make one, just reword anything with [i][/i] borders to make sense without a strikethrough and remove the [i][/i].",
-"Click project>export>add...>HTML5>Resources": "add *.json to Filters to export into a new folder", 
-"Export the project, and finally," : "edit the .html file's name to index.html and upload to a site of your choosing like Itch.io or github pages. You may need to zip the folder depending on where you upload it.",
-
-"EXPORTING ALTERNATIVE" : "If you're uncomfortable with code or Godot, you COULD skip all that and just send the translated file to me. I would be happy to add the language support natively to the main game file with a selection screen at the start",
-"It'd be much easier on you, but it wouldn't be its own file." : "You can still upload your own scp-wiki translation page and you'd be credited in the main game as a translator and on the page as a co-author, but you couldn't make your own itch.io page for the translation if you were planning on that.",
-
-"With all of that mentioned, the rest of this file is all the text in the entire game.": "Good luck! If you need additional assistance, DM me on wikidot(IronShears, slower) or Discord(ironshears, faster)",
-
-
-
-
-
-
-
-
-
 "dialogueError":{"name":"null","text":"THIẾU DỮ LIỆU ĐỐI THOẠI","tickSpeed":0.04,"type":"Dialogue"},
 
 
@@ -804,9 +763,9 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "bodyMissing":[
 {"name":"Dr. Sanghera","text":"Cái đéo gì vậy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill, thi thể anh ta biến mất rồi. I don"t... I don"t know where it went.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"O'Cuill, thi thể anh ta biến mất rồi. I don't... I don't know where it went.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"What? Was Chen not dead?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I don"t know! It"s just gone.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"I don't know! It's just gone.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I think... I think something got to it.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -825,11 +784,11 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"Dr. Sanghera","text":"Is that...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Dr. Sanghera tastes the water from the bottom of the crinoid.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Ohhh... of course!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill, The Tea lilies. They"re not completly... water tight.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"O'Cuill, The Tea lilies. They're not completly... water tight.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Okay?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I can"t believe I missed this before. I think they"re filtering the water.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"They"re concentrating microbes from the ceiling for the pikaiids to eat.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"THAT"S what the pikaiids get out of the arrangement!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"I can't believe I missed this before. I think They're filtering the water.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"They're concentrating microbes from the ceiling for the pikaiids to eat.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"THAT'S what the pikaiids get out of the arrangement!","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Huh. Okay. Cool.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file. Open tablet to view.","tickSpeed":0.04,"type":"Dialogue"}
 ],
@@ -848,7 +807,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "teaCupPikaiidLook0":[
 {"name":"null","text":"\"[color=#4f80a0]Tea Cup Pikaiid[/color]\". A small stem-chordate that lives symbiotically within a crinoid.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"It"s unclear what it"s getting out of it.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"It's unclear what It's getting out of it.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"This species was initially described on the first expedition.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -859,7 +818,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "veinerWormLook0":[
 {"name":"null","text":"\"[color=#4f80a0]Veiner Worm[/color]\". A parasitic hemichordate invertebrate related to acorn worms.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"It"s unclear what it"s getting out of it.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"It's unclear what It's getting out of it.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"This species was initially described on the first expedition.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -874,7 +833,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "veinerWorm0":[
-{"name":"null","text":"It"s writhing.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"It's writhing.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "veinerWormDropped0Add":[
@@ -891,17 +850,17 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"null","text":"The [color=#4f80a0]Veiner Worm[/color] has attracted a new species.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Huh. Something new.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A new species?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Yeah... They"re going after a parasite that fell from the Tea Lily I broke.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Yeah... They're going after a parasite that fell from the Tea Lily I broke.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"You know... the endemic species probably have a taste for eachother.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"They might be more effective as a lure than the bait I brought with me.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"Just don"t add anything back to the extinction list.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Commander O'Cuill","text":"Just don't add anything back to the extinction list.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "isopodRadiodontLook0":[
 {"name":"null","text":"Looks like a new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill. We didn"t find any arthropods on our last look did we?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"O'Cuill. We didn't find any arthropods on our last look did we?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"No.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Well, I found one. Small. It"s... terrestrial. I think it"s a [color=#4f80a0]Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Well, I found one. Small. It's... terrestrial. I think It's a [color=#4f80a0]Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A radiodont?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Its got the mandibles and lobes. Looks like a huriid.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Looks almost like an [color=#4f80a0]isopod[/color].","tickSpeed":0.04,"type":"Dialogue"},
@@ -958,7 +917,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"Dr. Sanghera","text":"Uhhh.... O'Cuill?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"So... I put my hand in [color=#4f80a0]SCP-6634[/color]\"","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Okay?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"It"s a spacial anomaly.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"It's a spacial anomaly.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Dr. Sanghera parts the algae. The bottom of the pond is visible.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Hmmm... I bet... I bet I could go into it...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Indira. No.","tickSpeed":0.04,"type":"Dialogue"},
@@ -969,14 +928,14 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 
 "cavesDiscoverContemplate":[
-{"name":"Dr. Sanghera","text":"I shouldn"t...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"I shouldn't...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"But...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "enterCave":"Enter the Anomaly?",
 
 "algaeEnding":[
-{"name":"Dr. Sanghera","text":"... A few seconds of looking around won"t hurt anyone...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"... A few seconds of looking around won't hurt anyone...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "cavesRestraint":[
@@ -1018,7 +977,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "badBait":[
-{"name":"null","text":"This wouldn"t make good bait.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"This wouldn't make good bait.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "driftWorm0":[
@@ -1038,7 +997,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "driftWormTakeFirst":[
 {"name":"Dr. Sanghera","text":"Oh shit... right.... the stingers.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"... Huh... It"s not stinging anymore after I pull it out of the water... ","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"... Huh... It's not stinging anymore after I pull it out of the water... ","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Not quite like Cnidarians afterall.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -1056,13 +1015,13 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "letterBonePikaiid0":[
 {"name":"null","text":"\"[color=#4f80a0]Letter Bone Pikaiid[/color]\". Cephalochordates with a hardened knife-like probosis.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"They use the probosis to scrape off and consume food particles caught in the [color=#4f80a0]Crab Pot Crinoid[/color]"s arms.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"They use the probosis to scrape off and consume food particles caught in the [color=#4f80a0]Crab Pot Crinoid[/color]’s arms.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"This species was initially described on the first expedition.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "letterBonePikaiid1Look":[
 {"name":"null","text":"\"[color=#4f80a0]Letter Bone Pikaiid[/color]\. Cephalochordates with a hardened knife-like protrusion.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"They use the probosis to scrape off and consume food particles caught in the [color=#4f80a0]Crab Pot Crinoid[/color]"s arms.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"They use the probosis to scrape off and consume food particles caught in the [color=#4f80a0]Crab Pot Crinoid[/color]’s arms.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "letterBonePikaiidTake":[
@@ -1078,19 +1037,19 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"Dr. Sanghera","text":"Something new. Is that a... horseshoe crab?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Horseshoe crab?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Hmmm... No","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh! I think it"s a [color=#4f80a0]Eurypterid[/color]!","tickSpeed":0.02,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Oh! I think It's a [color=#4f80a0]Eurypterid[/color]!","tickSpeed":0.02,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A sea scorpion?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Yeah... Oh wow...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I can kinda see... air blowing...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"The... the paddles... I can kinda see them under it...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I think they"re blowing air over their gills.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"I think They're blowing air over their gills.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Weird.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "crackerEurypteridLook1":[
 {"name":"null","text":"\"[color=#4f80a0]Cracker Eurypterid[/color]\". A terrestrial species of sea scorpion.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"It"s trying to crack open the [color=#4f80a0]Pillbug Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"It's trying to crack open the [color=#4f80a0]Pillbug Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "crackerEurypteridLeaves":[
@@ -1099,18 +1058,18 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "lacemouthLook0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Conodont... It"s a conodont.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Voracious species too. It"s already eaten the bait.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Conodont... It's a conodont.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Voracious species too. It's already eaten the bait.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Conodont?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Maybe it was hiding in the algae?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I"ll upload some more images for you.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"I'll upload some more images for you.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Alright.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "lacemouthLook1":[
 {"name":"null","text":"\"[color=#4f80a0]Lacemouth[/color]\". A long-toothed species of conodont.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"They"ve already eaten the whole driftworm.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"They've already eaten the whole driftworm.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "lacemouthTake0":[
@@ -1138,15 +1097,15 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Where did... what the....","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Where did that... come from?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"What"s going on?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"What's going on?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Some kind of colonial organism.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"There"s no way this was hiding in the algae. It floats.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"There's no way this was hiding in the algae. It floats.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Maybe it came from the waterfall?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"The waterfall just feeds from condensation. There"s no body of water up there.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"The waterfall just feeds from condensation. There's no body of water up there.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"This thing looks delicate","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"It looks kinda like [color=#4f80a0]Orthograptus[/color]...?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Now I"m even more confused.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Now I'm even more confused.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Did you find anything weird on the ground radar? Extra caves?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"No... Maybe look around? Might be a secondary anomaly.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
@@ -1160,15 +1119,15 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "slugPikaiid0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh... it"s... a benthic pikaiid?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Huh... It's... a benthic pikaiid?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Looks like a slug... but it also looks like a Pikaiid","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "slugPikaiid0Late":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh... it"s... a smaller [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"They"re definitely related. Probably the same genus.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"Huh... It's... a smaller [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"They're definitely related. Probably the same genus.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -1241,7 +1200,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 "bigBoyPikaiidBaitNull":[
 {"name":"null","text":"A [color=#4f80a0]Slug Pikaiid[/color] set out as bait.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"... It goes back to eating.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Maybe the water isn"t the best location If I"m gonna use this as bait...","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Maybe the water isn't the best location If I'm gonna use this as bait...","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBaitEscape":[
@@ -1252,12 +1211,12 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "bigBoyPikaiidBaitPlace":[
 {"name":"null","text":"Placed the [color=#4f80a0]Slug Pikaiid[/color] as bait.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hopefully it won"t just leave...","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"Hopefully it won't just leave...","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBait0":[
 {"name":"null","text":"A [color=#4f80a0]Slug Pikaiid[/color] set out as bait.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"It"s trying to eat the floor...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"null","text":"It's trying to eat the floor...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocarisDiscover0":[
@@ -1268,8 +1227,8 @@ Nơi nước lũ không thể vươn tới.[/center]",
 "arthrocarisDiscover1":[
 {"name":"Dr. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"You don"t... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Commander O'Cuill","text":"What"s going on?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Dr. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Commander O'Cuill","text":"What's going on?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I think I found what ate Chen.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"You good?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"I think so.","tickSpeed":0.04,"type":"Dialogue"},
@@ -1279,7 +1238,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 "arthrocaris0":[
 {"name":"Dr. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"You don"t... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocarisLook":[
@@ -1287,7 +1246,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"null","text":"An slow, opportunistic species that consumes slow moving or already dead prey.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Not interested in active predation","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Dr. Sanghera","text":"Should... probably keep my distance anyways...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Don"t want to push my luck.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Dr. Sanghera","text":"don't want to push my luck.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocarisSqueezePast":[
@@ -1384,5 +1343,3 @@ For Guaire :)
 [/center]
 "
 }
-
-
