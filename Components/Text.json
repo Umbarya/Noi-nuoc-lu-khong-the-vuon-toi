@@ -1,4 +1,45 @@
 {
+"TUTORIAL FOR TRANSLATORS": "First up, try and use some kind of code editor that supports .json files. I use Notepad++. You won't have to, but it will be a LOT easier on you. Ignore the red fake errors in the text if you use Notepad++, they're just being dramatic.", 
+
+"Do not change ANY of the text in square brackets": "Don't touch anything in text that looks like this: [i][/i],[color=#xxxxxx][/color], etc. These add text effects.",
+"Do not change ANY variables in curly brackets":"Don't touch anything in text that looks like this: {example}, these are searched and replaced in the code",
+"Do not change any dictionary keys":[
+{"doNotChangeThis":"change THIS"}
+],
+"Do not change anything besides text in the Dialogue Dictionaries.":[
+{"name":"DO NOT CHANGE","text":"CHANGE","tickSpeed":"DO NOT CHANGE","type":"DO NOT CHANGE"},
+],
+
+"Names for name boxes are changed all at once right here below instead" : "The name in dialogue dictionaries also controls the voices characters have so it's important they are not changed.",
+
+"Dr. Sanghera": "Dr. Sanghera",
+"Commander O'Cuill": "Commander O'Cuill",
+"Agent Guerrero": "Agent Guerrero",
+"Agent Hale": "Agent Hale",
+
+"Don't have to change these ones below, though" :"these ones don't even show up in the game.",
+
+"null": "null",
+"nullCommander": "nullCommander",
+
+"EXPORTING OPTION 1":"Download Godot and open the project file, place your edited .json file in res://Components, test it with the play button on the top right to make sure it runs correctly.",
+"If some letters aren't showing up, you may need to find new fonts and edit them." : "Font can be changed in the DialogueTheme.tres, Tablet.tres, and Room Buttons.tres. You'll probably need 2-3 fonts. I used 3, but you can get away with a Standard font and a Strikethrough font. If you can't find a strikthrough font and you don't want to make one, just reword anything with [i][/i] borders to make sense without a strikethrough and remove the [i][/i].",
+"Click project>export>add...>HTML5>Resources": "add *.json to Filters to export into a new folder", 
+"Export the project, and finally," : "edit the .html file's name to index.html and upload to a site of your choosing like Itch.io or github pages. You may need to zip the folder depending on where you upload it.",
+
+"EXPORTING ALTERNATIVE" : "If you're uncomfortable with code or Godot, you COULD skip all that and just send the translated file to me. I would be happy to add the language support natively to the main game file with a selection screen at the start",
+"It'd be much easier on you, but it wouldn't be its own file." : "You can still upload your own scp-wiki translation page and you'd be credited in the main game as a translator and on the page as a co-author, but you couldn't make your own itch.io page for the translation if you were planning on that.",
+
+"With all of that mentioned, the rest of this file is all the text in the entire game.": "Good luck! If you need additional assistance, DM me on wikidot(IronShears, slower) or Discord(ironshears, faster)",
+
+
+
+
+
+
+
+
+
 "dialogueError":{"name":"null","text":"THIẾU DỮ LIỆU ĐỐI THOẠI","tickSpeed":0.04,"type":"Dialogue"},
 
 
@@ -1337,8 +1378,9 @@ All art by IronShears.
 
 
 
-"credits": "[center]\nHappy Holidays 2023,\n\nFor Guaire :)\n[/center]"
+Happy Holidays 2023,
+
+For Guaire :)
+[/center]
+"
 }
-
-
-
