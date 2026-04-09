@@ -467,11 +467,11 @@ This species presumably spends the majority of its time within SCP-6634-1, only 
 
 "teaLilyWaterBottleCombine":[
 {"name":"null","text":"Đã kết hợp [color=#4f80a0]Cốc Hoa Huệ[/color] với [color=#4f80a0]Chai Nước[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Chà vấn đề được giải quyết. Không cần phải lo về nguồn nước nữa rồi","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Chà vấn đề được giải quyết. Không cần phải lo về nguồn nước nữa rồi","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Có chuyện gì vậy?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi dùng một trong số [color=#4f80a0]Cốc Hoa Huệ[/color] như một cái bộ lọc ấy mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi dùng một trong số [color=#4f80a0]Cốc Hoa Huệ[/color] như một cái bộ lọc ấy mà.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Có chắc là nó an toàn chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Chẳng phải mấy người bảo với tôi không cần làm quá vấn đề an toàn lên à","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Chẳng phải mấy người bảo với tôi không cần làm quá vấn đề an toàn lên à","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Chỉ huy O'Cuill","text":"Okay, okay...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -496,25 +496,25 @@ Nơi nước lũ không thể vươn tới.[/center]",
 "intro":[
 {"name":"nullCommander","text":"Alo Aloo, nghe rõ trả lời?","tickSpeed":0.02,"type":"Dialogue"},
 {"name":"nullCommander","text":"Đặc vụ Chen, Ts. Sanghera respond!","tickSpeed":0.02,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hả... Ư... Đầu tôi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Hả... Ư... Đầu tôi...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"nullCommander","text":"Có ai trong hai người còn sử dụng được bộ đàm không?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Ts. Sanghera loay hoay tìm bộ đàm và balo của mình.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro2":[
-{"name":"Dr. Sanghera","text":"Tôi... Tôi đây...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi... Tôi đây...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô có bị kẹt không? Còn đứng dậy được không?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Không... không... Tôi... Tôi ổn... Hả... Chuyện gì đã xảy ra vậy... ","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Không... không... Tôi... Tôi ổn... Hả... Chuyện gì đã xảy ra vậy... ","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Đã có một vụ sập hang trong khi hai người đang tiến vào.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chúng tôi chưa rõ nguyên nhân là gì nhưng đang tìm cách xử lý.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đệt... Chen à...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Chen?","tickSpeed":0.04,"closeSpeed":0.01,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"ÔI trời ơi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Đệt... Chen à...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...Chen?","tickSpeed":0.04,"closeSpeed":0.01,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"ÔI trời ơi...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chen bị kẹt sao?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Anh... anh ấy chết rồi...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Anh... anh ấy chết rồi...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Tôi cần cô kiểm tra mạch của cậu ấy. Nếu có thể hồi sức, chúng tôi sẽ đưa cả hai ra ngoài trong vòng một tiếng nữa.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Dầu... Đầu của anh ta...","tickSpeed":0.08,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Bị đè nát rồi...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...Dầu... Đầu của anh ta...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...Bị đè nát rồi...","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"...","tickSpeed":0.2,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Địt cụ.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Được rồi.","tickSpeed":0.04,"type":"Dialogue"},
@@ -522,49 +522,49 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"Commander O'Cuill","text":"Indira, tôi cần cô đưa Chen rời khỏi lối vào hang ngay.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"ĐỪNG có đứng bên dưới đó. Đội cứu hộ sắp đến để đào bới rồi","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chúng tôi không muốn đất đá rơi xuống người cô đâu.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Được... được thôi.","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"...Được... được thôi.","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "intro3":[
-{"name":"Dr. Sanghera","text":"Anh ta nặng hơn tôi .","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi đã bảo anh rồi, chúng ta chưa nên chủ quan sớm như vậy mà.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đây mới chỉ là chuyến thám hiểm thứ hai.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Anh ta nặng hơn tôi .","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi đã bảo anh rồi, chúng ta chưa nên chủ quan sớm như vậy mà.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Đây mới chỉ là chuyến thám hiểm thứ hai.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Địa hình chắc hẳn đã kém ổn định hơn chúng ta dự đoán.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đó là những gì anh có thể nói à?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Đó là những gì anh có thể nói à?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Giờ không phải là lúc để đổ lỗi.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...Rồi.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...Rồi.","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chúng tôi cần bắt đầu đào bới ngay.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Còn Chen thì sao?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Còn Chen thì sao?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cứ để thi thể ở đó. Chúng ta sẽ thu hồi khi xuống được đến dưới đó.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Hãy tìm chỗ nào đó để dựng trại và cố gắng giữ cho bản thân bận rộn đi.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tuyệt.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tuyệt.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chúng tôi sẽ đưa cô ra ngoài trong vòng 1 giờ nữa.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro4":[
-{"name":"Dr. Sanghera","text":"Khô ráo. Khá biệt lập. Bằng phẳng.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Trông có vẻ như là một nơi lý tưởng đây.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Mình sẽ dựng trại ở đây.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Khô ráo. Khá biệt lập. Bằng phẳng.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Trông có vẻ như là một nơi lý tưởng đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Mình sẽ dựng trại ở đây.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "intro5":[
-{"name":"Dr. Sanghera","text":"Có tin gì chưa? Còn bao lâu nữa thế?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Có tin gì chưa? Còn bao lâu nữa thế?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô tìm được chỗ nghỉ ngơi chưa?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Rồi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô sẽ phải ở dưới đấy lâu hơn dự kiến đấy","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Đội đào bới muốn chắc chắn rằng cả cái hang không sập xuống đầu cô.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Rồi vậy thì còn bao lâu nữa?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Rồi vậy thì còn bao lâu nữa?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô còn giữ đống mồi chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi ước gì anh cứ trả lời thẳng câu hỏi của tôi đi. Có, tôi còn giữ.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi ước gì anh cứ trả lời thẳng câu hỏi của tôi đi. Có, tôi còn giữ.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Để nó tránh xa khỏi đám sinh vật hoang dã đi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Vị nó không ngon đâu nhưng ăn được đấy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi phải làm gì để có nước uống đây?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi phải làm gì để có nước uống đây?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chẳng phải có cái hồ dưới đấy sao?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Nó là nước MẶN đấy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Anh có đọc bất cứ thứ gì tôi viết trước khi nới lỏng các biện pháp an toàn cho chuyến thám hiểm này không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Nó là nước MẶN đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Anh có đọc bất cứ thứ gì tôi viết trước khi nới lỏng các biện pháp an toàn cho chuyến thám hiểm này không?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Đừng có làm quá lên. Cô có một chai nước mà.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Sẽ không quá vài ngày đâu.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đệt.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Đệt.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Tôi sẽ luôn túc trực ở đầu bên này bộ đàm.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Pin chắc sẽ trụ được một tuần.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô nên nghỉ ngơi một lát đi.","tickSpeed":0.04,"type":"Dialogue"},
@@ -572,24 +572,24 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "pondIntro":[
-{"name":"Dr. Sanghera","text":"không phải là một nơi lý tưởng để đặt lưng xuống...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"không phải là một nơi lý tưởng để đặt lưng xuống...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro0":[
-{"name":"Dr. Sanghera","text":"Mình nghĩ là mình có thể chợp mắt nghỉ ngơi một chút…","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Mình nghĩ là mình có thể chợp mắt nghỉ ngơi một chút…","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restTitle1":"Ngày 1, 14:00",
 
 "restIntro1":[
-{"name":"Dr. Sanghera","text":"Riain, có tiến triển gì không?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Riain, có tiến triển gì không?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Vẫn đang khảo sát. Chúng tôi đang đưa radar xuyên đất ra.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ừm... Okay.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ừm... Okay.","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"null","text":"Chai nước của tôi còn một nửa thôi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro1":[
-{"name":"Dr. Sanghera","text":"Tôi đi ngủ đây. Cơ mà chắc chẳng chợp mắt được bao lâu đâu.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi đi ngủ đây. Cơ mà chắc chẳng chợp mắt được bao lâu đâu.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Được rồi. Nghỉ ngơi đi. Sáng mai chúng tôi sẽ có thêm tin tức.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -597,10 +597,10 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "restIntro2":[
 {"name":"Commander O'Cuill","text":"Indira, cô dậy chưa?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ờm... Rồi. Đệt. Cổ của tôi...","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ờm... Rồi. Đệt. Cổ của tôi...","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chúng tôi có thể khẳng định chắc chắn rằng ta sẽ đưa cô ra ngoài vào ngày 24.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hơn hai này nữa à?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Hơn hai này nữa à?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô phải ráng trụ lại thôi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -609,73 +609,73 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "restOutro2":[
-{"name":"Dr. Sanghera","text":"Tôi... sẽ tiếp tục nghỉ ngơi đây...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Tôi... sẽ tiếp tục nghỉ ngơi đây...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro2BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Tôi cảm thấy bất an khi đi quanh đây. Bất cứ thứ gì đưa Chen đi có thể còn ở đâu đó quanh đây.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Not much left to do. Không còn gì nhiều để làm nữa. Tôi sẽ cố thủ ở đây và canh chừng lối vào.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi cảm thấy bất an khi đi quanh đây. Bất cứ thứ gì đưa Chen đi có thể còn ở đâu đó quanh đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Not much left to do. Không còn gì nhiều để làm nữa. Tôi sẽ cố thủ ở đây và canh chừng lối vào.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chỉ là một loài động vật thôi. Có lẽ nó còn sợ cô hơn là cô sợ nó đấy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ôi câm dùm , O'Cuill.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Ôi câm dùm , O'Cuill.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restTitle3":"Ngày 2, 14:00",
 
 "restIntro3":[
-{"name":"Dr. Sanghera","text":"Ư... Tôi thấy tệ vãi lồng luôn.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ư... Tôi thấy tệ vãi lồng luôn.","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cô đã ngồi đó cả ngày trời chỉ để dán mắt vào cái máy tính bảng rồi đấy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Chả có gì để làm cả.","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Chả có gì để làm cả.","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "restIntro3BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Bắt đầu chán ngấy việc chỉ ngồi im một chỗ rồi đó, có lẽ tôi sẽ liều một phen.","tickSpeed":0.08,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Bắt đầu chán ngấy việc chỉ ngồi im một chỗ rồi đó, có lẽ tôi sẽ liều một phen.","tickSpeed":0.08,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Chà, vậy thì cố mà giữ an toàn cho bản thân đấy.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "thirsty3" : [
-{"name":"Dr. Sanghera","text":"Vẫn chưa có nước. Tôi bắt đầu cảm thấy ... thực sự rất kinh khủng rồi đó.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Vẫn chưa có nước. Tôi bắt đầu cảm thấy ... thực sự rất kinh khủng rồi đó.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Nếu không còn cách nào khác, lượng nước trong đống mồi sẽ giúp cô sống sót.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi e là nó quá mặt để là được việc đó...","tickSpeed":0.08,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Tôi e là nó quá mặt để là được việc đó...","tickSpeed":0.08,"type":"Dialogue"}
 ],
 
 "restOutro3":[
-{"name":"Dr. Sanghera","text":"Chắc là tôi sẽ ngủ qua đêm nay vậy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Chắc là tôi sẽ ngủ qua đêm nay vậy.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Được thôi...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro3BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Nghỉ thêm một lát nữa vậy. Tôi bắt đầu mất khả năng xác định được thời gian rồi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Nghỉ thêm một lát nữa vậy. Tôi bắt đầu mất khả năng xác định được thời gian rồi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Giờ là khoảng 23:00 rồi.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đụ má... chắc là tôi cố chợp mắt đây.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Đụ má... chắc là tôi cố chợp mắt đây.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Hãy lấy gì đó để chặn lối ra vào đi.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Chẳng có hòn đá nào cả.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Chẳng có hòn đá nào cả.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restTitle4":"Ngày 3, 9:00",
 
 "restIntro4":[
 {"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Ồ tốt rồi, cô vừa ngủ quên đấy. Cố đừng để rối loạn giờ giấc nhé.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Đó không phải là thứ tôi đang bận tâm vào lúc này.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Đó không phải là thứ tôi đang bận tâm vào lúc này.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restIntro4BodyDiscovered":[
 {"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Mmm...? Yeah.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Ồ tốt rồi, cô vừa ngủ quên đấy. Cố đừng để rối loạn giờ giấc nhé.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi đang lo về thứ đã ăn Chen hơn.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Tôi đang lo về thứ đã ăn Chen hơn.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "restOutro4":[
-{"name":"Dr. Sanghera","text":"Sẽ còn mất bao lâu nữa đây?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Sẽ còn mất bao lâu nữa đây?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Cố chịu thêm chút nữa đi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro4BodyDiscovered":[
-{"name":"Dr. Sanghera","text":"Tôi chỉ cần ngồi xuống nghỉ một lát thôi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi chỉ cần ngồi xuống nghỉ một lát thôi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Được thôi","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -683,67 +683,67 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "restIntro5":[
 {"name":"Commander O'Cuill","text":"Tin tốt này. Chúng tôi sẽ đưa cô ra ngoài vào sáng sớm ngày mai.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Cuối cùng thì... tôi cứ ngỡ mình đã ở đây cả tháng trời rồi.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Cuối cùng thì... tôi cứ ngỡ mình đã ở đây cả tháng trời rồi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restIntro5BodyDiscovered":[
 {"name":"Commander O'Cuill","text":"Tin tốt này. Chúng tôi sẽ đưa cô ra ngoài vào sáng sớm ngày mai.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Cuối cùng thì... Tôi thực sự không muốn bị cái thứ đó ăn thịt đâu.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Cuối cùng thì... Tôi thực sự không muốn bị cái thứ đó ăn thịt đâu.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "restOutro5":[
-{"name":"Dr. Sanghera","text":"Tôi sẽ cố chợp mắt một lát trước khi các anh đến.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi sẽ cố chợp mắt một lát trước khi các anh đến.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Hẹn gặp cô vào sáng mai.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "restOutro5BodyDiscovered":[
 {"name":"Commander O'Cuill","text":"Hẹn gặp cô vào sáng mai.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Làm ơn hãy nhanh lên. Tôi lo quá.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Làm ơn hãy nhanh lên. Tôi lo quá.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 
 "thirstEnding":[
 {"name":"Commander O'Cuill","text":"Indira? Cô ổn chứ?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi bị... chóng mặt kinh khủng... Vẫn chưa có nước...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi sẽ vẫn... tiếp tục... nằm nghỉ thêm một lúc nữa...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi bị... chóng mặt kinh khủng... Vẫn chưa có nước...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi sẽ vẫn... tiếp tục... nằm nghỉ thêm một lúc nữa...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Gắng thêm chút nữa thôi.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "Ending0":[
 {"name":"Commander O'Cuill","text":"Indira. Indira dậy đi.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ưm... cái gì... anh muốn gì?","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Ưm... cái gì... anh muốn gì?","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "mediocreEnding":[
 {"name":"Commander O'Cuill","text":"Đến lúc rồi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Ts. Sanghera?! Ts. Sanghera có ở trong đó không?!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ôi lạy trời. Tôi đây!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ôi lạy trời. Tôi đây!","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Thật mừng khi thấy cô vẫn ổn","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Đã có ai tìm thấy được thi thể chưa?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Hale","text":"Không thấy gì cả. Ngoài này chẳng có gì.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ý anh là sao, không có gì ngoài đó à...?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi đã để xác cậu ấy ngay cạnh cái","tickSpeed":0.08,"closeSpeed":0.08,"type":"DialogueAuto"}
+{"name":"Ts. Sanghera","text":"Ý anh là sao, không có gì ngoài đó à...?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi đã để xác cậu ấy ngay cạnh cái","tickSpeed":0.08,"closeSpeed":0.08,"type":"DialogueAuto"}
 ],
 
 "goodEnding0":[
 {"name":"Commander O'Cuill","text":"Đến lúc rồi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Ts. Sanghera?! Ts. Sanghera có ở trong đó không?!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ôi lạy trời. Tôi đây! Ra ngay đây.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Ôi lạy trời. Tôi đây! Ra ngay đây.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "goodEndingAdd":[
-{"name":"Dr. Sanghera","text":"Ồ, nó vẫn còn ở đây. Cẩn thận con [color=#4f80a0]Arthrocaris[/color] đấy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ồ, nó vẫn còn ở đây. Cẩn thận con [color=#4f80a0]Arthrocaris[/color] đấy.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Woa.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Cứ kệ nó đi. Nó sẽ không tấn công các anh đâu nhưng đừng có khiêu khích nó.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Cứ kệ nó đi. Nó sẽ không tấn công các anh đâu nhưng đừng có khiêu khích nó.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Hale","text":"Ái chà chà.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "goodEnding1":[
 {"name":"Agent Hale","text":"Trông cô tệ thật đấy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Tôi chỉ cần được đi tắm, uống cái gì đó, và một đĩa thức ăn tử tế thôi.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Tôi chỉ cần được đi tắm, uống cái gì đó, và một đĩa thức ăn tử tế thôi.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Agent Guerrero","text":"Thật mừng khi thấy cô vẫn ổn.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -762,11 +762,11 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "bodyMissing":[
-{"name":"Dr. Sanghera","text":"Cái đéo gì vậy.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill, thi thể anh ta biến mất rồi. I don't... I don't know where it went.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Cái đéo gì vậy.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"O'Cuill, thi thể anh ta biến mất rồi. I don't... I don't know where it went.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"What? Was Chen not dead?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I don't know! It's just gone.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I think... I think something got to it.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"I don't know! It's just gone.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I think... I think something got to it.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "firstLook" : [
@@ -781,14 +781,14 @@ Nơi nước lũ không thể vươn tới.[/center]",
 "teaLilyLook0" : [
 {"name":"null","text":"\"[color=#4f80a0]Tea Lily[/color]\". Cup shaped crinoid that collects water to feed on the waste of a symbi","tickSpeed":0.04, "closeSpeed":0.01, "type":"DialogueAuto"},
 {"name":"null","text":"...The water from its cup is dripping from the bottom.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Is that...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"Dr. Sanghera tastes the water from the bottom of the crinoid.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ohhh... of course!","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill, The Tea lilies. They're not completly... water tight.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Is that...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"Ts. Sanghera tastes the water from the bottom of the crinoid.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ohhh... of course!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"O'Cuill, The Tea lilies. They're not completly... water tight.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Okay?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I can't believe I missed this before. I think They're filtering the water.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"They're concentrating microbes from the ceiling for the pikaiids to eat.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"THAT'S what the pikaiids get out of the arrangement!","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I can't believe I missed this before. I think They're filtering the water.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"They're concentrating microbes from the ceiling for the pikaiids to eat.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"THAT'S what the pikaiids get out of the arrangement!","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Huh. Okay. Cool.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file. Open tablet to view.","tickSpeed":0.04,"type":"Dialogue"}
 ],
@@ -801,7 +801,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 {"name":"null","text":"The head snaps off while being pulled up from the rocks.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"[color=#4f80a0]Tea Lily Cup[/color] added to inventory.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"The liquid remains in the cup but the young parasite is slowly pulled from the bottom.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Uggh... disgusting.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Uggh... disgusting.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"[color=#4f80a0]Veiner Worm[/color] discarded.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -837,7 +837,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "veinerWormDropped0Add":[
-{"name":"Dr. Sanghera","text":"Huh. Not the colors I was expecting. Better get a photo.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Huh. Not the colors I was expecting. Better get a photo.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -848,22 +848,22 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "speciesAttracted":[
 {"name":"null","text":"The [color=#4f80a0]Veiner Worm[/color] has attracted a new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh. Something new.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Huh. Something new.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A new species?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Yeah... They're going after a parasite that fell from the Tea Lily I broke.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"You know... the endemic species probably have a taste for eachother.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"They might be more effective as a lure than the bait I brought with me.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Yeah... They're going after a parasite that fell from the Tea Lily I broke.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"You know... the endemic species probably have a taste for eachother.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"They might be more effective as a lure than the bait I brought with me.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Just don't add anything back to the extinction list.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "isopodRadiodontLook0":[
 {"name":"null","text":"Looks like a new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"O'Cuill. We didn't find any arthropods on our last look did we?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"O'Cuill. We didn't find any arthropods on our last look did we?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"No.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Well, I found one. Small. It's... terrestrial. I think It's a [color=#4f80a0]Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Well, I found one. Small. It's... terrestrial. I think It's a [color=#4f80a0]Radiodont[/color].","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A radiodont?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Its got the mandibles and lobes. Looks like a huriid.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Looks almost like an [color=#4f80a0]isopod[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Its got the mandibles and lobes. Looks like a huriid.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Looks almost like an [color=#4f80a0]isopod[/color].","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Huh. Write down what you can about it now.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
@@ -911,35 +911,35 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 
 "cavesDiscover":[
-{"name":"Dr. Sanghera","text":"I wonder if I can just...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"Dr. Sanghera reaches her hand into the anomaly.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I wonder if I can just...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"Ts. Sanghera reaches her hand into the anomaly.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Her hand reaches a curve in liquid... then air.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Uhhh.... O'Cuill?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"So... I put my hand in [color=#4f80a0]SCP-6634[/color]\"","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Uhhh.... O'Cuill?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"So... I put my hand in [color=#4f80a0]SCP-6634[/color]\"","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Okay?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"It's a spacial anomaly.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"null","text":"Dr. Sanghera parts the algae. The bottom of the pond is visible.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hmmm... I bet... I bet I could go into it...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"It's a spacial anomaly.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"null","text":"Ts. Sanghera parts the algae. The bottom of the pond is visible.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Hmmm... I bet... I bet I could go into it...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Indira. No.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I know... But... the wildlife seem to be able to traverse it just fine.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I know... But... the wildlife seem to be able to traverse it just fine.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Not entering a spacial anomaly without preparation is like day one field training.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "cavesDiscoverContemplate":[
-{"name":"Dr. Sanghera","text":"I shouldn't...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"But...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"I shouldn't...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"But...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "enterCave":"Enter the Anomaly?",
 
 "algaeEnding":[
-{"name":"Dr. Sanghera","text":"... A few seconds of looking around won't hurt anyone...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"... A few seconds of looking around won't hurt anyone...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "cavesRestraint":[
-{"name":"Dr. Sanghera","text":"No...","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"No...","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "crabTrapCrinoidLook":[
@@ -996,9 +996,9 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "driftWormTakeFirst":[
-{"name":"Dr. Sanghera","text":"Oh shit... right.... the stingers.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"... Huh... It's not stinging anymore after I pull it out of the water... ","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Not quite like Cnidarians afterall.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Oh shit... right.... the stingers.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"... Huh... It's not stinging anymore after I pull it out of the water... ","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Not quite like Cnidarians afterall.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "driftWormBaitPlace":[
@@ -1034,15 +1034,15 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "crackerEurypteridLook0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Something new. Is that a... horseshoe crab?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Something new. Is that a... horseshoe crab?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Horseshoe crab?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hmmm... No","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh! I think It's a [color=#4f80a0]Eurypterid[/color]!","tickSpeed":0.02,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Hmmm... No","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Oh! I think It's a [color=#4f80a0]Eurypterid[/color]!","tickSpeed":0.02,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"A sea scorpion?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Yeah... Oh wow...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I can kinda see... air blowing...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"The... the paddles... I can kinda see them under it...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I think They're blowing air over their gills.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Yeah... Oh wow...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I can kinda see... air blowing...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"The... the paddles... I can kinda see them under it...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I think They're blowing air over their gills.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Weird.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
@@ -1058,11 +1058,11 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "lacemouthLook0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Conodont... It's a conodont.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Voracious species too. It's already eaten the bait.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Conodont... It's a conodont.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Voracious species too. It's already eaten the bait.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Conodont?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Maybe it was hiding in the algae?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I'll upload some more images for you.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Maybe it was hiding in the algae?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I'll upload some more images for you.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Alright.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
@@ -1078,7 +1078,7 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "lacemouthTake1":[
 {"name":"null","text":"[color=#4f80a0]Lacemouth[/color] added to inventory.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Gotcha.","tickSpeed":0.02,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Gotcha.","tickSpeed":0.02,"type":"Dialogue"}
 ],
 
 "lacemouthBaitPlace":[
@@ -1095,39 +1095,39 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "graptolite0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Where did... what the....","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Where did that... come from?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Where did... what the....","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Where did that... come from?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"What's going on?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Some kind of colonial organism.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"There's no way this was hiding in the algae. It floats.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Some kind of colonial organism.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"There's no way this was hiding in the algae. It floats.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Maybe it came from the waterfall?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"The waterfall just feeds from condensation. There's no body of water up there.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"This thing looks delicate","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"It looks kinda like [color=#4f80a0]Orthograptus[/color]...?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Now I'm even more confused.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Did you find anything weird on the ground radar? Extra caves?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"The waterfall just feeds from condensation. There's no body of water up there.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"This thing looks delicate","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...","tickSpeed":0.1,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"It looks kinda like [color=#4f80a0]Orthograptus[/color]...?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Now I'm even more confused.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Did you find anything weird on the ground radar? Extra caves?","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"No... Maybe look around? Might be a secondary anomaly.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "graptolite1":[
 {"name":"null","text":"\"[color=#4f80a0]Mochi Donut Graptolite[/color]\". A planktonic graptolite.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I need to think of a better name for this.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"I need to think of a better name for this.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "slugPikaiid0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh... It's... a benthic pikaiid?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Looks like a slug... but it also looks like a Pikaiid","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Huh... It's... a benthic pikaiid?","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Looks like a slug... but it also looks like a Pikaiid","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "slugPikaiid0Late":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh... It's... a smaller [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"They're definitely related. Probably the same genus.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Huh... It's... a smaller [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"They're definitely related. Probably the same genus.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -1144,10 +1144,10 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "wiggleTrilobiteLook0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Huh... a [color=#4f80a0]Trilobite[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Huh... a [color=#4f80a0]Trilobite[/color].","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"Where are you finding these things?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Around","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"This one can sort of wiggle its spines. Typically those are solid in fossils.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Around","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"This one can sort of wiggle its spines. Typically those are solid in fossils.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "wiggleTrilobiteLook1":[
@@ -1161,23 +1161,23 @@ Nơi nước lũ không thể vươn tới.[/center]",
 
 "bigBoyPikaiidLook0":[
 {"name":"null","text":"Another new species.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Whoa....","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"That is a big... Slug... Pikaiid?","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Whoa....","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"That is a big... Slug... Pikaiid?","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 
 "bigBoyPikaiidLookAdd":[
-{"name":"Dr. Sanghera","text":"Might be related to the [color=#4f80a0]Slug Pikaiids[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Maybe an adult, maybe a different closely related species. Looks like the same genus.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Might be related to the [color=#4f80a0]Slug Pikaiids[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Maybe an adult, maybe a different closely related species. Looks like the same genus.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidLook0EndNoDiscovery":[
-{"name":"Dr. Sanghera","text":"Way too big to have been hiding here...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Way too big to have been hiding here...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidLook0EndDiscovery":[
-{"name":"Dr. Sanghera","text":"The extra dimensional space must be large...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"The extra dimensional space must be large...","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
@@ -1192,26 +1192,26 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "bigBoyPikaiidTake":[
-{"name":"null","text":"Dr. Sanghera struggles to lift the [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Ouagh. Hefty.","tickSpeed":0.06,"type":"Dialogue"},
+{"name":"null","text":"Ts. Sanghera struggles to lift the [color=#4f80a0]Slug Pikaiid[/color].","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Ouagh. Hefty.","tickSpeed":0.06,"type":"Dialogue"},
 {"name":"null","text":"[color=#4f80a0]Slug Pikaiid[/color] added to inventory.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBaitNull":[
 {"name":"null","text":"A [color=#4f80a0]Slug Pikaiid[/color] set out as bait.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"... It goes back to eating.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Maybe the water isn't the best location If I'm gonna use this as bait...","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Maybe the water isn't the best location If I'm gonna use this as bait...","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBaitEscape":[
 {"name":"null","text":"Placed the [color=#4f80a0]Slug Pikaiid[/color] as bait.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"... It escapes back into the algae.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Shit...","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Shit...","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBaitPlace":[
 {"name":"null","text":"Placed the [color=#4f80a0]Slug Pikaiid[/color] as bait.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Hopefully it won't just leave...","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Hopefully it won't just leave...","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "bigBoyPikaiidBait0":[
@@ -1220,37 +1220,37 @@ Nơi nước lũ không thể vươn tới.[/center]",
 ],
 
 "arthrocarisDiscover0":[
-{"name":"Dr. Sanghera","text":"Whoa... you... you must be what ate Chen...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh god. This was a horrible idea.","tickSpeed":0.02,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Whoa... you... you must be what ate Chen...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Oh god. This was a horrible idea.","tickSpeed":0.02,"type":"Dialogue"}
 ],
 
 "arthrocarisDiscover1":[
-{"name":"Dr. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"What's going on?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I think I found what ate Chen.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I think I found what ate Chen.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"Commander O'Cuill","text":"You good?","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"I think so.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"I think so.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"New data added to file.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocaris0":[
-{"name":"Dr. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"...","tickSpeed":0.2,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"Oh.","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"You don't... seem very interested in me at all.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocarisLook":[
 {"name":"null","text":"\"[color=#4f80a0]Arthrocaris[/color]\". A giant terrestrial radiodont.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"An slow, opportunistic species that consumes slow moving or already dead prey.","tickSpeed":0.04,"type":"Dialogue"},
 {"name":"null","text":"Not interested in active predation","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"Should... probably keep my distance anyways...","tickSpeed":0.04,"type":"Dialogue"},
-{"name":"Dr. Sanghera","text":"don't want to push my luck.","tickSpeed":0.04,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Should... probably keep my distance anyways...","tickSpeed":0.04,"type":"Dialogue"},
+{"name":"Ts. Sanghera","text":"don't want to push my luck.","tickSpeed":0.04,"type":"Dialogue"}
 ],
 
 "arthrocarisSqueezePast":[
-{"name":"Dr. Sanghera","text":"Lemme just... squeeze past you there, bud.","tickSpeed":0.06,"type":"Dialogue"}
+{"name":"Ts. Sanghera","text":"Lemme just... squeeze past you there, bud.","tickSpeed":0.06,"type":"Dialogue"}
 ],
 
 "credits":"[center]
@@ -1279,7 +1279,7 @@ Commander O'Cuill voice: Simulated Spanish radio commercial by OneiroidState(CC0
 
 Radio Static: NOISEshort.wav by ReadeOnly(CC0)
 
-Dr. Sanghera voice: French Canadian Woman Giving Instructions 03.wav by vero.marengere(CC0)
+Ts. Sanghera voice: French Canadian Woman Giving Instructions 03.wav by vero.marengere(CC0)
 
 Pick Up Item: Pickup_item1.mp3 by Defaultv(CC0)
 
